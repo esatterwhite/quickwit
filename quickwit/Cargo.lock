@@ -6354,6 +6354,7 @@ dependencies = [
  "quickwit-indexing",
  "quickwit-ingest",
  "quickwit-metastore",
+ "quickwit-proto",
  "quickwit-search",
  "quickwit-serve",
  "reqwest",
